@@ -9,9 +9,23 @@ nav > ul > li > a{
     color: red;
 }
 
+body > figure > img{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+}
+
+body > section{
+    border: 3px solid palevioletred;
+    margin-top: 5px;
+    background-color: antiquewhite;
+}
 
 footer{
     align-items: center;
-    margin: 15px;
+    /* margin: 15px; */
+    border: 3px solid red;
+    margin-top: 50px;
+   
 }
 
